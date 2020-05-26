@@ -1,7 +1,7 @@
 # AMF1P-Book
 Companion Repo for the book Applied Machine Learning from 1st Principles *(Use the requirements.txt if you run into any trouble running these notebooks.)*
-* #### **Section 1: 1st Principles**
-* #### **Section 2: Principles and Practice**
+* ####**Section 1: 1st Principles**
+* ####**Section 2: Principles and Practice**
    * **Chapter 1: Problem and Domain Understanding Principles**
    * **Chapter 2: Data Understanding Principles**
       * Companion notebook: 
