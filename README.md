@@ -1,5 +1,5 @@
 # TAMFM-Book
-Companion Repo for the book Applied Machine Learning from 1st Principles *(Use the requirements.txt under each chapters if you run into any trouble running these notebooks.)*
+Companion Repo for the book The Applied ML field manual *(Use the requirements.txt under each chapters if you run into any trouble running these notebooks.)*
 * **Section 1: 1st Principles**
 * **Section 2: Principles and Practice**
    * **Chapter 1: Problem and Domain Understanding Principles**
