@@ -5,7 +5,7 @@ Companion Repo for the book The Applied ML field manual *(Use the requirements.t
    * **Chapter 1: Problem and Domain Understanding Principles**
    * **Chapter 2: Data Understanding Principles**
       * Companion notebook: 
-        * [Understanding profile dataset of an online dating platform](https://nbviewer.jupyter.org/github/PrithivirajDamodaran/The-Applied-ML-Field-Manual-Book/blob/master/Chapter%202%3A%20Data%20Understanding%20Principles/Data%20Understanding.ipynb)
+        * [Data understanding: Online dating dataset](https://nbviewer.jupyter.org/github/PrithivirajDamodaran/The-Applied-ML-Field-Manual-Book/blob/master/Chapter%202%3A%20Data%20Understanding%20Principles/Data%20Understanding.ipynb)
       * Exercise  notebooks:
         * [Apple CoVID Mobility analysis](https://nbviewer.jupyter.org/github/PrithivirajDamodaran/The-Applied-ML-Field-Manual-Book/blob/master/Chapter%202%3A%20Data%20Understanding%20Principles/Apple.ipynb)
         * [Google CoVID Mobility analysis](https://nbviewer.jupyter.org/github/PrithivirajDamodaran/The-Applied-ML-Field-Manual-Book/blob/master/Chapter%202%3A%20Data%20Understanding%20Principles/Google.ipynb)
