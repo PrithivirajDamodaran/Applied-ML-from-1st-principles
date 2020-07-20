@@ -1,4 +1,4 @@
-# TAMFM-Book
+# AMF1P-Book
 Companion Repo for the book Applied ML from 1st principles *(Use the requirements.txt under each chapters if you run into any trouble running these notebooks.)*
 * **Section 1: 1st Principles**
 * **Section 2: Principles and Practice**
