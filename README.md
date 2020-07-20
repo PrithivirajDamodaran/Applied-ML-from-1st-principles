@@ -10,8 +10,8 @@ Companion Repo for the book Applied ML from 1st principles *(Use the requirement
         * [Apple CoVID Mobility analysis](https://nbviewer.jupyter.org/github/PrithivirajDamodaran/The-Applied-ML-Field-Manual-Book/blob/master/Chapter%202%3A%20Data%20Understanding%20Principles/Apple.ipynb)
         * [Google CoVID Mobility analysis](https://nbviewer.jupyter.org/github/PrithivirajDamodaran/The-Applied-ML-Field-Manual-Book/blob/master/Chapter%202%3A%20Data%20Understanding%20Principles/Google.ipynb)
   * **Chapter 4: Data Viz Principles**
-     * **Chapter 5: Feature Engineering Principles**
-     * **Chapter 6: Learning Principles**
+  * **Chapter 5: Feature Engineering Principles**
+  * **Chapter 6: Learning Principles**
       
    
    
